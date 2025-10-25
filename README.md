@@ -5,7 +5,7 @@ This application allows users to **login securely**, **analyze sales data**, and
 
 ---
 
-## 🚀 Features  
+ Features  
 
 ### 🔐 Login System  
 - Secure login for **Admin** and **User** accounts.  

@@ -491,7 +491,7 @@ Top 3 Branches by Sales:
                     for month, sales in sorted_months:
                         f.write(f"{month}: Rs. {sales:,.2f}\n")
                 
-                messagebox.showinfo("Success", f"Report saved to {file_path}")
+                messagebox.showinfo("Successful", f"Report saved to {file_path}")
                 self.status_var.set(f"Report saved to {file_path}")
                 
             except Exception as e:

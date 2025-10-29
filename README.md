@@ -7,7 +7,7 @@ This application allows users to **login securely**, **analyze sales data**, and
 
  Features  
 
-### 🔐 Login System  
+## 🔐 Login System  
 - Secure login for **Admin** and **User** accounts.  
 - Credentials:  
   - **Admin** → `admin / admin123`  

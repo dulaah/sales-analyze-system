@@ -31,7 +31,7 @@ This application allows users to **login securely**, **analyze sales data**, and
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 python_system/
 │── index.py # Main application (GUI + Login + Dashboard)
